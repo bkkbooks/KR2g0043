@@ -1,0 +1,1244 @@
+canonical_identifier: bkk:krp/KR2g0043/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR2g0043/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 欽定外藩蒙古回部王公表傳
+  date: '2015-08-24 22:35:54.182181'
+  source:
+    repository: kanripo
+    path: KR2g0043
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR2g0043_000-WYG.yaml, hash: 'sha256:667456e761cb4699f25342c04c644fb952e23edbf38c414f5411299ce32c6987'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2g0043_000-WYG.markers.yaml, hash: 'sha256:e1586fd2c22d4f58459e8a8f97963511edb89efe6da203e40e93b94829418e41'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 515
+  label: 卷首
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-4a
+    span:
+    - body
+    - 515
+    - 5809
+  label: 目録
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-35a
+    span:
+    - body
+    - 5809
+    - 5879
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-52a
+    span:
+    - body
+    - 5879
+    - 5953
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-60a
+    span:
+    - body
+    - 5953
+    - 6012
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-75a
+    span:
+    - body
+    - 6012
+    - 6075
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-88a
+    span:
+    - body
+    - 6075
+    - 6142
+  label: 卷之五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-96a
+    span:
+    - body
+    - 6142
+    - 6202
+  label: 卷之六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-103a
+    span:
+    - body
+    - 6202
+    - 6268
+  label: 卷之七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-119a
+    span:
+    - body
+    - 6268
+    - 6481
+  label: 卷之八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-137a
+    span:
+    - body
+    - 6481
+    - 6751
+  label: 卷之九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-154a
+    span:
+    - body
+    - 6751
+    - 7080
+  label: 卷之十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-177a
+    span:
+    - body
+    - 7080
+    - 7467
+  label: 卷之十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-200a
+    span:
+    - body
+    - 7467
+    - 7726
+  label: 卷之十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-213a
+    span:
+    - body
+    - 7726
+    - 8018
+  label: 卷之十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-224a
+    span:
+    - body
+    - 8018
+    - 8129
+  label: 卷之十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-228a
+    span:
+    - body
+    - 8129
+    - 8316
+  label: 卷之十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-236a
+    span:
+    - body
+    - 8316
+    - 8513
+  label: 卷之十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-245a
+    span:
+    - body
+    - 8513
+    - 13454
+  label: 卷之十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-265a
+    span:
+    - body
+    - 13454
+    - 17212
+  label: 卷之十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-281a
+    span:
+    - body
+    - 17212
+    - 19266
+  label: 卷之十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-291a
+    span:
+    - body
+    - 19266
+    - 22038
+  label: 卷之二十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-303a
+    span:
+    - body
+    - 22038
+    - 23895
+  label: 卷之二十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-311a
+    span:
+    - body
+    - 23895
+    - 25523
+  label: 卷之二十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-318a
+    span:
+    - body
+    - 25523
+    - 28331
+  label: 卷之二十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-330a
+    span:
+    - body
+    - 28331
+    - 31780
+  label: 卷之二十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-345a
+    span:
+    - body
+    - 31780
+    - 34151
+  label: 卷之二十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-355a
+    span:
+    - body
+    - 34151
+    - 37453
+  label: 卷之二十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-369a
+    span:
+    - body
+    - 37453
+    - 39175
+  label: 卷之二十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-377a
+    span:
+    - body
+    - 39175
+    - 42772
+  label: 卷之二十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-392a
+    span:
+    - body
+    - 42772
+    - 45502
+  label: 卷之二十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-403a
+    span:
+    - body
+    - 45502
+    - 47354
+  label: 卷之三十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-411a
+    span:
+    - body
+    - 47354
+    - 49194
+  label: 卷之三十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-419a
+    span:
+    - body
+    - 49194
+    - 50707
+  label: 卷之三十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-426a
+    span:
+    - body
+    - 50707
+    - 52394
+  label: 卷之三十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-433a
+    span:
+    - body
+    - 52394
+    - 55163
+  label: 卷之三十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-445a
+    span:
+    - body
+    - 55163
+    - 56855
+  label: 卷之三十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-452a
+    span:
+    - body
+    - 56855
+    - 60518
+  label: 卷之三十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-467a
+    span:
+    - body
+    - 60518
+    - 63260
+  label: 卷之三十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-479a
+    span:
+    - body
+    - 63260
+    - 64963
+  label: 卷之三十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-487a
+    span:
+    - body
+    - 64963
+    - 66850
+  label: 卷之三十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-495a
+    span:
+    - body
+    - 66850
+    - 68166
+  label: 卷之四十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-501a
+    span:
+    - body
+    - 68166
+    - 70798
+  label: 卷之四十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-512a
+    span:
+    - body
+    - 70798
+    - 73027
+  label: 卷之四十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-522a
+    span:
+    - body
+    - 73027
+    - 75817
+  label: 卷之四十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-533a
+    span:
+    - body
+    - 75817
+    - 79394
+  label: 卷之四十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-548a
+    span:
+    - body
+    - 79394
+    - 81979
+  label: 卷之四十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-558a
+    span:
+    - body
+    - 81979
+    - 84565
+  label: 卷之四十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-570a
+    span:
+    - body
+    - 84565
+    - 87394
+  label: 卷之四十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-582a
+    span:
+    - body
+    - 87394
+    - 88900
+  label: 卷之四十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-589a
+    span:
+    - body
+    - 88900
+    - 90992
+  label: 卷之四十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-598a
+    span:
+    - body
+    - 90992
+    - 94582
+  label: 卷之五十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-613a
+    span:
+    - body
+    - 94582
+    - 97932
+  label: 卷之五十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-627a
+    span:
+    - body
+    - 97932
+    - 100717
+  label: 卷之五十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-639a
+    span:
+    - body
+    - 100717
+    - 102621
+  label: 卷之五十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-647a
+    span:
+    - body
+    - 102621
+    - 104578
+  label: 卷之五十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-656a
+    span:
+    - body
+    - 104578
+    - 106899
+  label: 卷之五十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-666a
+    span:
+    - body
+    - 106899
+    - 108742
+  label: 卷之五十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-674a
+    span:
+    - body
+    - 108742
+    - 111202
+  label: 卷之五十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-685a
+    span:
+    - body
+    - 111202
+    - 113577
+  label: 卷之五十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-695a
+    span:
+    - body
+    - 113577
+    - 115492
+  label: 卷之五十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-703a
+    span:
+    - body
+    - 115492
+    - 117294
+  label: 卷之六十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-711a
+    span:
+    - body
+    - 117294
+    - 120946
+  label: 卷之六十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-725a
+    span:
+    - body
+    - 120946
+    - 123930
+  label: 卷之六十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-737a
+    span:
+    - body
+    - 123930
+    - 129201
+  label: 卷之六十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-757a
+    span:
+    - body
+    - 129201
+    - 131872
+  label: 卷之六十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-769a
+    span:
+    - body
+    - 131872
+    - 134575
+  label: 卷之六十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-781a
+    span:
+    - body
+    - 134575
+    - 136739
+  label: 卷之六十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-790a
+    span:
+    - body
+    - 136739
+    - 139043
+  label: 卷之六十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-800a
+    span:
+    - body
+    - 139043
+    - 141069
+  label: 卷之六十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-808a
+    span:
+    - body
+    - 141069
+    - 145001
+  label: 卷之六十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-824a
+    span:
+    - body
+    - 145001
+    - 151679
+  label: 卷之七十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-851a
+    span:
+    - body
+    - 151679
+    - 154903
+  label: 卷之七十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-864a
+    span:
+    - body
+    - 154903
+    - 158837
+  label: 卷之七十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-880a
+    span:
+    - body
+    - 158837
+    - 161276
+  label: 卷之七十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-891a
+    span:
+    - body
+    - 161276
+    - 163608
+  label: 卷之七十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-901a
+    span:
+    - body
+    - 163608
+    - 165803
+  label: 卷之七十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-911a
+    span:
+    - body
+    - 165803
+    - 167735
+  label: 卷之七十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-920a
+    span:
+    - body
+    - 167735
+    - 172096
+  label: 卷之七十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-937a
+    span:
+    - body
+    - 172096
+    - 174831
+  label: 卷之七十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-948a
+    span:
+    - body
+    - 174831
+    - 179527
+  label: 卷之七十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-965a
+    span:
+    - body
+    - 179527
+    - 183801
+  label: 卷之八十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-983a
+    span:
+    - body
+    - 183801
+    - 195967
+  label: 卷之八十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1027a
+    span:
+    - body
+    - 195967
+    - 198873
+  label: 卷之八十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1039a
+    span:
+    - body
+    - 198873
+    - 201543
+  label: 卷之八十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1050a
+    span:
+    - body
+    - 201543
+    - 203883
+  label: 卷之八十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1060a
+    span:
+    - body
+    - 203883
+    - 205750
+  label: 卷之八十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1068a
+    span:
+    - body
+    - 205750
+    - 208009
+  label: 卷之八十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1078a
+    span:
+    - body
+    - 208009
+    - 209677
+  label: 卷之八十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1085a
+    span:
+    - body
+    - 209677
+    - 211435
+  label: 卷之八十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1092a
+    span:
+    - body
+    - 211435
+    - 213298
+  label: 卷之八十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1100a
+    span:
+    - body
+    - 213298
+    - 214384
+  label: 卷之九十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1105a
+    span:
+    - body
+    - 214384
+    - 227832
+  label: 卷之九十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1154a
+    span:
+    - body
+    - 227832
+    - 229402
+  label: 卷之九十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1161a
+    span:
+    - body
+    - 229402
+    - 231471
+  label: 卷之九十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1170a
+    span:
+    - body
+    - 231471
+    - 238184
+  label: 卷之九十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1197a
+    span:
+    - body
+    - 238184
+    - 240607
+  label: 卷之九十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1208a
+    span:
+    - body
+    - 240607
+    - 243058
+  label: 卷之九十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1219a
+    span:
+    - body
+    - 243058
+    - 244347
+  label: 卷之九十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1225a
+    span:
+    - body
+    - 244347
+    - 245871
+  label: 卷之九十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1232a
+    span:
+    - body
+    - 245871
+    - 246675
+  label: 卷之九十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1236a
+    span:
+    - body
+    - 246675
+    - 252373
+  label: 卷之一百
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1257a
+    span:
+    - body
+    - 252373
+    - 253130
+  label: 卷之一百一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1261a
+    span:
+    - body
+    - 253130
+    - 255209
+  label: 卷之一百二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1271a
+    span:
+    - body
+    - 255209
+    - 256362
+  label: 卷之一百三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1277a
+    span:
+    - body
+    - 256362
+    - 258047
+  label: 卷之一百四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1284a
+    span:
+    - body
+    - 258047
+    - 260652
+  label: 卷之一百五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1294a
+    span:
+    - body
+    - 260652
+    - 261772
+  label: 卷之一百六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1300a
+    span:
+    - body
+    - 261772
+    - 265050
+  label: 卷之一百七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1312a
+    span:
+    - body
+    - 265050
+    - 268166
+  label: 卷之一百八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1325a
+    span:
+    - body
+    - 268166
+    - 276159
+  label: 卷之一百九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1354a
+    span:
+    - body
+    - 276159
+    - 281813
+  label: 卷之一百十
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1377a
+    span:
+    - body
+    - 281813
+    - 284554
+  label: 卷之一百十一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1388a
+    span:
+    - body
+    - 284554
+    - 287019
+  label: 卷之一百十二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1398a
+    span:
+    - body
+    - 287019
+    - 288822
+  label: 卷之一百十三
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1405a
+    span:
+    - body
+    - 288822
+    - 290906
+  label: 卷之一百十四
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1414a
+    span:
+    - body
+    - 290906
+    - 294176
+  label: 卷之一百十五
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1428a
+    span:
+    - body
+    - 294176
+    - 298035
+  label: 卷之一百十六
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1444a
+    span:
+    - body
+    - 298035
+    - 300704
+  label: 卷之一百十七
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1456a
+    span:
+    - body
+    - 300704
+    - 303830
+  label: 卷之一百十八
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1469a
+    span:
+    - body
+    - 303830
+    - 305363
+  label: 卷之一百十九
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR2g0043_WYG_000-1475a
+    span:
+    - body
+    - 305363
+    - 308190
+  label: 卷之一百二十
+  type: section
+  level: 1
+hash: sha256:2f2d982cb79525898b0ef33bb9960970d46cad9909833c4a179517f49afeb5a1
