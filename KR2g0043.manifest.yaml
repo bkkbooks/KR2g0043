@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2g0043/v1
 canonical_location: https://kanripo.org/bkk/KR2g0043/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 欽定外藩蒙古回部王公表傳
   date: '2015-08-24 22:35:54.182181'
@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2g0043_000.yaml, hash: 'sha256:763afc0f040d100de1ee274f7d8e0553081a17f71fcb7805648ca6cb70ba1fe7'}
+  - {seq: 0, filename: KR2g0043_000.yaml, hash: 'sha256:33b068017b61a8cb1a908bc434a4122d351b87af7dfeed3f2f023bd0e22ecaf4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2g0043_000.markers.yaml, hash: 'sha256:6c41ec9d1dd4225c14352b84fb2529c8dfca8d46456f13a82c358341c956e040'}
+  - {seq: 0, role: markers, filename: assets/KR2g0043_000.markers.yaml, hash: 'sha256:4663ad1dd7d64c7a98f748a99e56378356d43b235935b1d3f1c45bbf3cbde485'}
 table_of_contents:
 - ref:
     seq: 0
@@ -1244,4 +1244,7 @@ table_of_contents:
   label: 卷之一百二十
   type: section
   level: 1
-hash: sha256:c984dc05ae3689dff56e7908fce2fa171b02584398afaa8829685418c3a92955
+hash: sha256:bd7dee97bf6cc895b15924869c7fe809cbf41e6d328c77739dd102dfa018eca5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
